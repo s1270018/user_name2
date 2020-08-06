@@ -21,8 +21,8 @@ public class coin{
 			}
 		}
 		System.out.println("Heads: "+w+", Tails: "+l);
-		if(w>l){System.out.println("you"+" won!");
-		}else{System.out.println("you"+" lost!");}
+		if(w>l){System.out.println(str+" won!");
+		}else{System.out.println(str+" lost!");}
 	}
 
 }
